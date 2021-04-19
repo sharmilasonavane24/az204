@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "storage1": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourcegroups/[parameters('resourceGroup')]/providers/Microsoft.Storage/storageAccounts/az204examsa",
+      "type": "storage.azure",
+      "connectionId": "DefaultEndpointsProtocol=https;AccountName=az204examsa;AccountKey=yM8NXM1bvVkmpu3Kpcxm9Y2cLZ6nr23v7EjehXhzA35f1QtvObJ4jyK4JoLHVB2/1C5Sfj5JLaMd8L5zPKLBLA==;EndpointSuffix=core.windows.net",
+      "secretStore": "AzureAppSettings"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "storage1": {
+      "restored": true,
+      "restoreTime": "2021-03-18T20:47:47.5787641Z"
+    }
+  },
+  "parameters": {
+    "resourceGroup": {
+      "Type": "resourceGroup",
+      "Value": "az204"
+    },
+    "subscriptionId": {
+      "Type": "subscription",
+      "Value": "cf076197-8c91-4875-b893-ad1ba6cb0ccf"
+    }
+  }
+}

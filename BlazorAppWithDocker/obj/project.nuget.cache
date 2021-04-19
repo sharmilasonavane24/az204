@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8mxNHd4C+nO5MBsOQ42CMFTmYMX3WlPVguuZfRdDo5vPRpOLqog2OYSC/xJuddc6G+TGNe1+/N1emcyJvKo4RQ==",
+  "success": true,
+  "projectFilePath": "C:\\az204Study\\BlazorAppWithDocker\\BlazorAppWithDocker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ssonavane\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
