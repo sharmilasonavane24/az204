@@ -1,1 +1,111 @@
-<mxfile host="app.diagrams.net" modified="2023-02-02T10:36:34.374Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="V8IWz1wBSo6HwOoJRqLv" version="20.8.15" type="github"><diagram name="Page-1" id="7_DRdK4knNodA_AbaXPM">5Zddb5swFIZ/DZeVMM4HvVyztKu0atWiqdrV5OAz8GQwMoeQ7NfPLibASKK0WkunXgW/5xjbj49fB48u0u2NZnlypzhIL/D51qMfvSAgEzoxP1bZ1cqcklqIteAuqRVW4jc40XdqKTgUvURUSqLI+2Kksgwi7GlMa1X1034q2R81ZzEMhFXE5FB9EByTWg2Deat/AhEnzchkdllHUtYku5UUCeOq6kh06dGFVgrrp3S7AGnhNVzqftdHovuJacjwnA4ow/u78AfNv3/5dp+uvpKL8uHCvWXDZOkWfC0ybpRFWaBKQdutAyk2oHeWKOcaisItCHcNJa3KjIMdiHj0qkoEwipnkY1Wpi6MlmAqXdgNCRphe3QtZE/IlBaYmeDjBJoOMwfVVdXENat2i0jDPelsT9ONuaqI929uwZkHx+4JHGcDjgNGwE1huabSmKhYZUwuW/WqpeibVpvzWancsfsFiDt3SliJ6hBZO9BprmZeqtQRnFiQmz8yHQOeyJse3icNkqGpmv55/NfU5++V+pHT8TrUL98r9XBM6sGA+ofGjM3lx8GOuWFibW+uYMZSa7rZusj3qLp2nah0XRajWDWZnunVxH8ps54OUHZuu7WQUmRx97LzRfE2r0H6N9v52PcgGf6h+M/NITzXkv3DW/U67hAOsN8WvRJ2FmFinVq/5W/aKigd3Sqaz5BT9Tz2qafnOuozTr1ptl8oj7HOdx5d/gE=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-02T11:00:23.415Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="ooLoTZ7IYrMEN5dm26_H" version="20.8.15" type="github">
+  <diagram name="Page-1" id="7_DRdK4knNodA_AbaXPM">
+    <mxGraphModel dx="1687" dy="860" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0ZsnvAsvSBX3qvRAQQl4-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tl8PM8_3pYOUPmSR1-uW-1" target="tl8PM8_3pYOUPmSR1-uW-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tl8PM8_3pYOUPmSR1-uW-1" value="Find Customer delivery address" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="160" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tl8PM8_3pYOUPmSR1-uW-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tl8PM8_3pYOUPmSR1-uW-2" target="tl8PM8_3pYOUPmSR1-uW-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tl8PM8_3pYOUPmSR1-uW-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tl8PM8_3pYOUPmSR1-uW-2" target="tl8PM8_3pYOUPmSR1-uW-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tl8PM8_3pYOUPmSR1-uW-2" value="Address code avaibale&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="160" y="150" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tl8PM8_3pYOUPmSR1-uW-5" value="Customer billing address is delivery address" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tl8PM8_3pYOUPmSR1-uW-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tl8PM8_3pYOUPmSR1-uW-8" target="tl8PM8_3pYOUPmSR1-uW-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0ZsnvAsvSBX3qvRAQQl4-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tl8PM8_3pYOUPmSR1-uW-8" target="0ZsnvAsvSBX3qvRAQQl4-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tl8PM8_3pYOUPmSR1-uW-8" value="Is address code =Customer Id&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="160" y="280" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tl8PM8_3pYOUPmSR1-uW-10" value="Customer Delivery address is delivery address&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0ZsnvAsvSBX3qvRAQQl4-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0ZsnvAsvSBX3qvRAQQl4-1" target="0ZsnvAsvSBX3qvRAQQl4-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0ZsnvAsvSBX3qvRAQQl4-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0ZsnvAsvSBX3qvRAQQl4-1" target="0ZsnvAsvSBX3qvRAQQl4-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0ZsnvAsvSBX3qvRAQQl4-1" value="Is address code =Customer Id-999&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="420" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="0ZsnvAsvSBX3qvRAQQl4-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0ZsnvAsvSBX3qvRAQQl4-10" target="0ZsnvAsvSBX3qvRAQQl4-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0ZsnvAsvSBX3qvRAQQl4-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0ZsnvAsvSBX3qvRAQQl4-10" target="0ZsnvAsvSBX3qvRAQQl4-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0ZsnvAsvSBX3qvRAQQl4-10" value="Is address code &lt;br&gt;available in uniconta&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="145" y="570" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="0ZsnvAsvSBX3qvRAQQl4-12" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="480" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0ZsnvAsvSBX3qvRAQQl4-13" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="340" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0ZsnvAsvSBX3qvRAQQl4-14" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="380" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0ZsnvAsvSBX3qvRAQQl4-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0ZsnvAsvSBX3qvRAQQl4-15" target="0ZsnvAsvSBX3qvRAQQl4-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0ZsnvAsvSBX3qvRAQQl4-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0ZsnvAsvSBX3qvRAQQl4-15" target="0ZsnvAsvSBX3qvRAQQl4-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0ZsnvAsvSBX3qvRAQQl4-15" value="SaveAddress" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="420" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="0ZsnvAsvSBX3qvRAQQl4-17" value="Create new address in Uniconta and that is delivery address" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0ZsnvAsvSBX3qvRAQQl4-19" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="520" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0ZsnvAsvSBX3qvRAQQl4-20" value="Uniconta address by code is a delivery address" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0ZsnvAsvSBX3qvRAQQl4-22" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="630" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0ZsnvAsvSBX3qvRAQQl4-24" value="Create new address in Uniconta and that is delivery address" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0ZsnvAsvSBX3qvRAQQl4-26" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="430" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0ZsnvAsvSBX3qvRAQQl4-29" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="530" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0ZsnvAsvSBX3qvRAQQl4-30" value="Given address is delivery address" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="605" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0ZsnvAsvSBX3qvRAQQl4-31" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="200" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0ZsnvAsvSBX3qvRAQQl4-32" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="250" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0ZsnvAsvSBX3qvRAQQl4-33" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="710" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
